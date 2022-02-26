@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloody news from Covent Garden; being a true relation, how one Mr. Bulger, an Irish gentleman, who committed a horrible and bloody murther near the three-tun tavern, in Chandois-Street: and of a baker's wife that is secured for the same fact</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76892</idno>
+            <idno type="STC">Wing B3265A</idno>
+            <idno type="STC">ESTC R231680</idno>
+            <idno type="EEBO-CITATION">99897465</idno>
+            <idno type="PROQUEST">99897465</idno>
+            <idno type="VID">170865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170865)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2491:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloody news from Covent Garden; being a true relation, how one Mr. Bulger, an Irish gentleman, who committed a horrible and bloody murther near the three-tun tavern, in Chandois-Street: and of a baker's wife that is secured for the same fact</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for T.O.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:170865:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 57 -->
+            <head>BLOODY NEWS <hi>FROM</hi> Covent Garden; Being a True Relation, how one Mr. <hi>Bulger,</hi> an <hi>Iriſh</hi> Gentleman, who Committed a Horrible and Bloody Murther near the Three-Tun Tavern, in <hi>Chandois-Street: <hi>And of a Baker's Wife that is ſecured for the ſame</hi>
+               </hi> FACT.</head>
+            <p>BEtween 11. and 12. a Clock at Night on <hi>Thurſday</hi> the 20th of this preſent <hi>September,</hi> Mr. <hi>Ph<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lp</hi>sa <hi>Ba<g ref="char:EOLhyphen"/>kers</hi> Wife in <hi>Bedford-Berry,</hi> came to the three <hi>Tun Tavern</hi> in <hi>Chandois-Street</hi> for ſome Wine, and it ſo happening that the Gentlewoman of the <hi>Tavern,</hi> ſuſpecting the money not to be good refuſed it for that Reaſon; and alſo to give her credit, not knowing at that time who ſhe was or where ſhe dwelt: One <hi>Charlton</hi> an Honeſt and Induſtrious Poor Labouring Man, and who plyed as a <hi>Porter</hi> to the ſaid <hi>Tavern,</hi> and to other Neighbours in the ſame Street was preſent. Alſo a Coach<g ref="char:EOLhyphen"/>man by Accident, ſpoke to Mrs. <hi>Phelps,</hi> about her hindring him of 5 or 6. <hi>s.</hi> that was his due, from ſome of her Lod<g ref="char:EOLhyphen"/>gers, who he ſaid were a Company of <hi>Bullys</hi> and <hi>Hectors,</hi> which ſo enraged her that ſhe preſently, in a few minuits de<g ref="char:EOLhyphen"/>parts in a great Paſſion (as may be thought) being conſcious of her Guilt, and in a very few Minuits time, one <hi>Bulger</hi> an Iriſh Gentleman comes ruſhing into the <hi>Tavern</hi> and ask'd for the Coachman which the <hi>Porter</hi> perceiving, went im<g ref="char:EOLhyphen"/>mediately out of Doors, fearing the Gentleman might do him ſome mifchies (his Countenance threatning as much) and ſo it fell out; for the ſaid Mr. <hi>Bulger</hi> purſued the <hi>Por<g ref="char:EOLhyphen"/>ter</hi> with all Violence, and before he was four Yards from the <hi>Tavern</hi> door run the <hi>Porter</hi> through the Body, upon which the poor man cryed out Murther, and returned in<g ref="char:EOLhyphen"/>to the <hi>Tav<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn</hi> being ſtill purſued, and dropped down dead before the Bar.</p>
+            <p>At the ſame time the Murther was Committed, a Gent<g ref="char:EOLhyphen"/>leman
+<pb n="1" facs="tcp:170865:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 58 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:170865:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 59 -->
+alighting from a Coach at a Neighbouring Door, cal<g ref="char:EOLhyphen"/>led out to the people of the <hi>Tavern</hi> to ſecure the ſaid Mr <hi>Bulger,</hi> ſaying he had kill'd the man, which was according<g ref="char:EOLhyphen"/>ly done, and at Conſtable ſent for to ſecure the Priſoner, in O<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der to his being proſecuted, and at the ſame time upon Examination of the Priſoner he Confeſt the Fact, and de<g ref="char:EOLhyphen"/>clared he had <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o prejudice againſt the poor man that was ſlain, and that he did it at the Inſtigation of the ſaid <hi>Bakers</hi> Wife; who forced him twice out of her doors to do it before he was willing to concern himſelf in her quar<g ref="char:EOLhyphen"/>rel; ſhe pretending the Coachman had Affronted her, &amp; ſaid he was heartily ſorry for what he bad done &amp; hoped God would forgive his grievous Offence Upon which Declarati<g ref="char:EOLhyphen"/>on, the Conſtable ſent ſome part of his Watch &amp; ſeized the <hi>Bakers</hi> Wife, and with the Aſſiſtane of another Conſtable and a great Number of Watchmen, and other Aſſiſtances that came in by chance, they carryed them both to the <hi>Gate-Houſe</hi> about twelve a Glock the ſame Night, where they are to remain till next <hi>Seſſions</hi> of <hi>Oyer</hi> &amp; <hi>Terminer,</hi> &amp; Goal delivery of <hi>Newgate.</hi> Mr <hi>White</hi> the <hi>Corroner</hi> of <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> having taken the Inqueſt, the <hi>Jury</hi> have found both the ſaid parties Guilty of Willful Murther; and its Ge<g ref="char:EOLhyphen"/>nerally believed, it will appear ſo, when the Cauſe ſhall come to be tryed at the <hi>Old-Baly,</hi> the Circumſtance and Evi<g ref="char:EOLhyphen"/>dence being very plain and poſſitive, beſides the Confeſſi<g ref="char:EOLhyphen"/>on of the partyes.</p>
+            <p>It is certain this poor <hi>Porter</hi> is nor the fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt perſon the ſaid Mr. <hi>Bulger</hi> hath ſlain. It being not many months ago, ſince he killed a <hi>Middleſex</hi> Officer, as he was Executing his office in <hi>German-Street</hi> in St. <hi>James's</hi> New-Buildings<g ref="char:punc">▪</g> for which he was Convicted, and had his Majeſties Gracious Pardon. And it is Credibly Reported, that Mr. <hi>Leſly</hi> the Scotch Gentlemau, that had the misfortune to kill Mr. <hi>Glover</hi> in <hi>Covent-garden,</hi> not many months ago, did lodge at that time at this Womans Houſe, and it is Conjectured that ſhe might poſſibly have a finger in that Miſchief, as well as this, which if ſo we may glorifie the Providence of Divine Juſtice, in purſuing the Blood of the Innocent, which cries aloud for Venge<g ref="char:EOLhyphen"/>ance on the Heads of the Guilty: though they may privately perſe<g ref="char:EOLhyphen"/>vere in their wickedneſs never ſo long, the Hand of Gods Juſtice will ce<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ainly, one time or another find them out, and this unfortunate poor man by the unruly hands of his Violence fell as you have heard without any manner of Provocation.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>T. O.</hi> 1683</p>
+         </div>
+      </back>
+   </text>
+</TEI>
